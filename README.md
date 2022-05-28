@@ -12,7 +12,7 @@
 If any of my technical friends are looking for a new challange in their careers, let me know. I can tell you any openings that fit your passion and experience level. I only handle 6 figure or more roles. 
   IF you are interested in making a change, please feel free to reach out to me. My email is rpearre@starshr.com
   I also chose this platform for gaining and practicing my coding skills. I would love to learn from the expert 
-  coders on here. My skill level is beginner in HTML5 and in Python programing so that is what I'm working on now with the help of this
+  coders on here. My skill level is intermediate in HTML5 and in Python programing so that is what I'm working on now with the help of this
   site and of course, freecodecamp.org</p>
 
   <h2>Sized Emojis</h2>
